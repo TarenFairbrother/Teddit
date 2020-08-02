@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teddit", "Teddit\Teddit.csproj", "{1B31C462-EB19-47FF-A9AF-3B1E78342F82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teddit.DataAccess", "Teddit.DataAccess\Teddit.DataAccess.csproj", "{1E86AC75-E60F-4AAC-9204-615C7C8963EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teddit.Models", "Teddit.Models\Teddit.Models.csproj", "{B8123785-0E28-4C0A-8495-C9B2CE3CBA2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1B31C462-EB19-47FF-A9AF-3B1E78342F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B31C462-EB19-47FF-A9AF-3B1E78342F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B31C462-EB19-47FF-A9AF-3B1E78342F82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E86AC75-E60F-4AAC-9204-615C7C8963EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E86AC75-E60F-4AAC-9204-615C7C8963EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E86AC75-E60F-4AAC-9204-615C7C8963EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E86AC75-E60F-4AAC-9204-615C7C8963EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8123785-0E28-4C0A-8495-C9B2CE3CBA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8123785-0E28-4C0A-8495-C9B2CE3CBA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8123785-0E28-4C0A-8495-C9B2CE3CBA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8123785-0E28-4C0A-8495-C9B2CE3CBA2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
